@@ -1,0 +1,30 @@
+.footer {
+	background-color: #393a3a;
+	color:#fff;
+	height:90px;
+	padding: 2px;
+	display: flex;
+
+    
+
+   
+}
+/* .footer-logo {
+	font-size:32px;
+	float:right; */
+
+.footer-list {
+	float:left;
+    text-align: left;
+    
+}
+.footer-list li {
+	
+	padding-bottom:5px;
+    
+   
+}
+
+li {
+list-style: none;
+}
